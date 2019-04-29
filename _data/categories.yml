@@ -17,3 +17,6 @@
 - name: Dental Center
   logo: /img/categories/dental.svg
   featured: true
+- name: Economy
+  logo: /img/categories/am.svg
+  featured: true

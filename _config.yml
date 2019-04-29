@@ -1,6 +1,6 @@
 title: IPHDC
-greeting: Welcome to Illinois Public Health Data Center
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Welcome to Illinois Public Health Data Center!
+description: Access Public Health Data Anytime Anywhere
 baseurl: /jkan
 logo: /img/jkan.png
 
