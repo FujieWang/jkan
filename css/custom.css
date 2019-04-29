@@ -19,3 +19,48 @@ body {
     background-color: #819ed5;
     border-color: #6a97e0;
 }
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 23px;
+    line-height: 20px;
+}
+
+.navbar-default .navbar-brand {
+    color: #333;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #333;
+    background-color: #809dd5;
+}
+
+.jumbotron > h1 {
+    font-family: "Titan One", cursive;
+    font-size: 63px;
+    background: -webkit-linear-gradient(left, #7573e6, #052861);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: transition-text 2s ease-in-out infinite;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-weight: 200;
+}
+
+.list-group-item-truncate {
+    display: inline-block;
+    line-height: 1;
+    width: 85%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.h3, h3 {
+    font-size: 26px;
+}
